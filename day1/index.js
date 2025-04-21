@@ -1,2 +1,2 @@
 const colors=require('colors')
-console.log('is it pink'.bgMagenta)
+console.log('is it pink'.blue)
